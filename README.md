@@ -1,4 +1,3 @@
-# Paulo Sinesio
 # Kubernetes - Gerenciando Aplicações no Kind com ArgoCD
 
 ## Contexto
